@@ -25,7 +25,9 @@ SECRET_KEY = 'h_)j9_y_kj25o2khwsl0s!#^##8fnp8d^jz@-9p(n8q6ccma0@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'afternoon-bayou-27385.herokuapp.com'
+]
 
 
 # Application definition
