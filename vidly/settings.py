@@ -26,7 +26,7 @@ SECRET_KEY = 'h_)j9_y_kj25o2khwsl0s!#^##8fnp8d^jz@-9p(n8q6ccma0@'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'afternoon-bayou-27385.herokuapp.com'
+    'afternoon-bayou-27385.herokuapp.com', '127.0.0.1'
 ]
 
 
