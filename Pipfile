@@ -10,6 +10,9 @@ autopep8 = "*"
 [packages]
 django = "==2.2"
 pylint-django = "*"
+django-tastypie = "*"
+gunicorn = "*"
+whitenoise = "*"
 
 [requires]
 python_version = "3.8"
